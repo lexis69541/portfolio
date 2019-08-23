@@ -1,0 +1,18 @@
+
+html {
+  background: url('C:/users/lexis/downloads/1121.jpg') beige;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+header {
+  color: yellow;
+  font-size: 30px;
+  font-family: sans-serif;
+  text-align: center;
+}
+body{
+  font-size: 20px;
+  color: white;
+
+}
